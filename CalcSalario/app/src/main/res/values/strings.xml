@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Desafio 01 Ejer 02</string>
+    <string name="header">Calculo de Salario Base</string>
+    <string name="hint_input1">Ingresa nombre</string>
+    <string name="hint_input2">Ingresa salario base ($)</string>
+    <string name="calculate">Calcular</string>
+    <string name="result">Resultado</string>
+    <string name="example_name">Ej. Henry Adonis</string>
+    <string name="example_salary">500.25</string>
+    <string name="rent">🔲 Renta: $</string>
+    <string name="afp">🔲 AFP: $</string>
+    <string name="isss">🔲 ISSS: $</string>
+    <string name="neto_salary">🔲 Salario Neto: $</string>
+    <string name="base_number">0.00</string>
+    <string name="notComply">No aplica Renta.</string>
+</resources>
